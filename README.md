@@ -153,7 +153,7 @@ An interactive dashboard was created to consolidate insights into a single view.
 ## 📷 Dashboard Preview
 
 ```markdown```
-![Dashboard](https://github.com/user-attachments/assets/bb6be864-9bfa-4afe-b0d7-71bf754cf5bf)
+![Dashboard](customer_revenue_dashboard.jpeg)
 
 ---
 
