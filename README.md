@@ -1,8 +1,10 @@
 🛍️ Customer Revenue & Segmentation Insights | Python + SQL + Power BI
 An end-to-end data analytics project analyzing 3,900+ retail transactions to uncover customer behavior insights, revenue trends, and product performance using Python, PostgreSQL, and Power BI.
 
+
 📌 Project Objective
 To analyze customer shopping behavior and generate actionable business insights by performing data cleaning, SQL-based analysis, and interactive dashboard visualization.
+
 
 🛠️ Tech Stack
 Python (Pandas, NumPy) – Data Cleaning & Feature Engineering
@@ -11,6 +13,7 @@ Power BI – KPI Dashboard & Data Visualization
 SQLAlchemy – Database Connectivity
 🐍 Data Cleaning & Transformation (Python)
 The dataset was cleaned and prepared using Python:
+
 
 Handled missing values using median imputation
 Standardized column names using snake_case formatting
