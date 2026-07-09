@@ -153,7 +153,8 @@ An interactive dashboard was created to consolidate insights into a single view.
 ## 📷 Dashboard Preview
 
 ```markdown```
-![Uploading Customer Revenue & Segmentation Insights.jpeg…]()
+<img width="1310" height="732" alt="Customer Revenue   Segmentation Insights" src="https://github.com/user-attachments/assets/b0fd6f2a-e758-4c0c-ae3d-b13abef790c3" />
+
 
 
 ---
